@@ -1,7 +1,7 @@
 # Tasks to-do
 
 ## Stage One
-- [x] Read the (paper)[https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf] and watch (lecture)[https://youtu.be/cQP8WApzIQQ?si=zYO9Z2i5jRHkeYxn]
+- [x] Read the [paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) and watch [lecture](https://youtu.be/cQP8WApzIQQ?si=zYO9Z2i5jRHkeYxn)
 - [x] Understand MapReduce on high level 
 - [x] Figure out the core components 
     - [x] Messaging
