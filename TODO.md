@@ -14,9 +14,9 @@
 - [x] Implement Logger
 - [ ] Core Services Design 
     - [ ] Storage Interface (MinIO)
-        - [ ] File Operations
-        - [ ] Chunk Management 
-        - [ ] Implementation
+        - [x] File Operations
+        - [x] Chunk Management 
+        - [x] Implementation
         - [ ] Testing
     - [ ] Job Management (Redis)
         - [ ] Job Defintions
